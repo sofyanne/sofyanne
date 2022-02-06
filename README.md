@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at Metz Numeric School.
 - 💼 &nbsp; Looking for an internship as a web developer.
 - 🌱 &nbsp; Learning more about Back-end development.
-[//]: # - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+[comment]:# - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
