@@ -44,6 +44,6 @@
 
 <p align="center">
 <a href="http://www.silicode.fr/"><img alt="Website" src="https://img.shields.io/badge/Website-www.silicode.fr-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sofyannebadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sofyanne%20Badir%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sofyannebadir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sofyanne%20Badir-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:s.badir@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-s.badir@outlook.com-blue?style=flat-square&logo=microsoft-outlook"></a>
 </p>
