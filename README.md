@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Studying Computer Science at Metz Numeric School.
-- 💼 &nbsp; Looking for a job as a web developer.
+- 💼 &nbsp; Looking for a job as a developer.
 - 🌱 &nbsp; Learning more about Back-end development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
