@@ -11,7 +11,7 @@
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
