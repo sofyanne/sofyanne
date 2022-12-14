@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing websites.
-- 🎓 &nbsp; Studying Computer Science at Metz Numeric School.
+- 🎓 &nbsp; Studied Computer Science at Metz Numeric School.
 - 💼 &nbsp; Looking for a job in IT.
 - 🌱 &nbsp; Learning more about Back-end development.
 
