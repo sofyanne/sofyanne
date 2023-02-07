@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Studied Computer Science at Metz Numeric School.
-- 💼 &nbsp; Looking for a job in IT.
-- 🌱 &nbsp; Learning more about Back-end development.
+- 💼 &nbsp; Working as software developper in Luxembourg.
+- 🌱 &nbsp; Learning more about Front-end development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
